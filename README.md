@@ -8,7 +8,7 @@
 
 ## Live Demo
 
-👉 [View Portfolio Website](你的 GitHub Pages 網址)
+https://evaneagle.github.io/Personal-resume/
 
 ---
 
